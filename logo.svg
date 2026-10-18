@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272 56" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">SalesPulse Analytics</title>
+  <desc id="logoDesc">A blue and teal analytics mark with a rising trend line beside the SalesPulse Analytics wordmark.</desc>
+  <defs>
+    <linearGradient id="markFill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#245fe8"/>
+      <stop offset="1" stop-color="#0b918b"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="3" width="48" height="48" rx="12" fill="url(#markFill)"/>
+  <path d="M12 37V28h5v9zm9 0V19h5v18zm9 0V24h5v13z" fill="#fff" opacity=".96"/>
+  <path d="M11 24.5 19 19l7 3.5 11-9" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="37" cy="13.5" r="2.1" fill="#fff"/>
+  <text x="61" y="27" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="750" letter-spacing="-.45" fill="#17243b">SalesPulse</text>
+  <text x="62" y="43" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="2.35" fill="#60738d">ANALYTICS</text>
+</svg>

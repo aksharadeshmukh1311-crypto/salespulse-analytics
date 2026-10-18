@@ -1,0 +1,241 @@
+Order ID,Order Date,Product Name,Category,Subcategory,Quantity,Unit Price,Sales,Profit,Customer Name,Region,State
+SP-10001,2025-01-01,Wireless Mouse,Electronics,Accessories,1,799,799,88,Customer 100,West,Maharashtra
+SP-10188,2025-01-06,Monitor Stand,Furniture,Desk Setup,4,1899,7596,2051,Customer 153,Central,Madhya Pradesh
+SP-10219,2025-01-06,Storage Box,Home Office,Organization,1,899,899,144,Customer 117,North,Delhi
+SP-10064,2025-01-09,USB-C Hub,Electronics,Accessories,1,2199,2199,550,Customer 163,North,Delhi
+SP-10095,2025-01-09,Monitor Stand,Furniture,Desk Setup,5,1899,9495,1329,Customer 127,East,West Bengal
+SP-10126,2025-01-09,Wireless Mouse,Electronics,Accessories,2,799,1598,415,Customer 158,West,Maharashtra
+SP-10157,2025-01-09,USB-C Hub,Electronics,Accessories,7,2199,15393,2309,Customer 122,South,Karnataka
+SP-10002,2025-01-12,Pen Pack,Stationery,Writing,6,199,1194,287,Customer 101,East,West Bengal
+SP-10033,2025-01-12,Wireless Mouse,Electronics,Accessories,3,799,2397,312,Customer 132,West,Maharashtra
+SP-10220,2025-01-17,Monitor Stand,Furniture,Desk Setup,7,1899,13293,3855,Customer 118,Central,Madhya Pradesh
+SP-10096,2025-01-20,Office Chair,Furniture,Seating,3,7499,22497,6074,Customer 128,North,Delhi
+SP-10127,2025-01-20,Pen Pack,Stationery,Writing,1,199,199,32,Customer 159,East,West Bengal
+SP-10158,2025-01-20,Wireless Mouse,Electronics,Accessories,5,799,3995,1119,Customer 123,West,Maharashtra
+SP-10189,2025-01-20,USB-C Hub,Electronics,Accessories,2,2199,4398,748,Customer 154,South,Karnataka
+SP-10003,2025-01-23,Office Chair,Furniture,Seating,4,7499,29996,4199,Customer 102,North,Delhi
+SP-10034,2025-01-23,Pen Pack,Stationery,Writing,2,199,398,103,Customer 133,East,West Bengal
+SP-10065,2025-01-23,Wireless Mouse,Electronics,Accessories,6,799,4794,719,Customer 164,West,Maharashtra
+SP-10128,2025-01-31,Office Chair,Furniture,Seating,6,7499,44994,13048,Customer 160,North,Delhi
+SP-10159,2025-01-31,Pen Pack,Stationery,Writing,3,199,597,107,Customer 124,East,West Bengal
+SP-10190,2025-01-31,Wireless Mouse,Electronics,Accessories,1,799,799,240,Customer 155,West,Maharashtra
+SP-10221,2025-01-31,Office Chair,Furniture,Seating,5,7499,37495,7124,Customer 119,South,Karnataka
+SP-10004,2025-02-03,Desk Lamp,Home Office,Lighting,3,1499,4497,1214,Customer 103,Central,Madhya Pradesh
+SP-10035,2025-02-03,Office Chair,Furniture,Seating,7,7499,52493,8399,Customer 134,North,Delhi
+SP-10066,2025-02-03,Keyboard,Electronics,Accessories,4,2599,10396,2911,Customer 165,East,West Bengal
+SP-10097,2025-02-03,Desk Lamp,Home Office,Lighting,2,1499,2998,510,Customer 129,West,Maharashtra
+SP-10160,2025-02-11,Office Chair,Furniture,Seating,2,7499,14998,4649,Customer 125,North,Delhi
+SP-10191,2025-02-11,Keyboard,Electronics,Accessories,6,2599,15594,3119,Customer 156,East,West Bengal
+SP-10222,2025-02-11,Desk Lamp,Home Office,Lighting,3,1499,4497,1439,Customer 120,West,Maharashtra
+SP-10036,2025-02-14,Notebook Set,Stationery,Paper,5,349,1745,506,Customer 135,Central,Madhya Pradesh
+SP-10067,2025-02-14,Water Bottle,Lifestyle,Drinkware,3,599,1797,323,Customer 166,North,Delhi
+SP-10098,2025-02-14,Keyboard,Electronics,Accessories,7,2599,18193,5458,Customer 130,East,West Bengal
+SP-10129,2025-02-14,Desk Lamp,Home Office,Lighting,4,1499,5996,1139,Customer 161,West,Maharashtra
+SP-10005,2025-02-17,Keyboard,Electronics,Accessories,1,2599,2599,442,Customer 104,South,Karnataka
+SP-10192,2025-02-22,Water Bottle,Lifestyle,Drinkware,4,599,2396,791,Customer 157,North,Delhi
+SP-10223,2025-02-22,Keyboard,Electronics,Accessories,2,2599,5198,1144,Customer 121,East,West Bengal
+SP-10068,2025-02-25,Notebook Set,Stationery,Paper,1,349,349,108,Customer 100,Central,Madhya Pradesh
+SP-10099,2025-02-25,Water Bottle,Lifestyle,Drinkware,5,599,2995,599,Customer 131,North,Delhi
+SP-10130,2025-02-25,Keyboard,Electronics,Accessories,3,2599,7797,2495,Customer 162,East,West Bengal
+SP-10161,2025-02-25,Notebook Set,Stationery,Paper,7,349,2443,513,Customer 126,West,Maharashtra
+SP-10006,2025-02-28,Monitor Stand,Furniture,Desk Setup,6,1899,11394,3418,Customer 105,West,Maharashtra
+SP-10037,2025-02-28,Storage Box,Home Office,Organization,4,899,3596,683,Customer 136,South,Karnataka
+SP-10224,2025-03-05,Water Bottle,Lifestyle,Drinkware,7,599,4193,503,Customer 122,North,Delhi
+SP-10100,2025-03-08,Notebook Set,Stationery,Paper,4,349,1396,461,Customer 132,Central,Madhya Pradesh
+SP-10131,2025-03-08,Monitor Stand,Furniture,Desk Setup,1,1899,1899,418,Customer 163,North,Delhi
+SP-10162,2025-03-08,Storage Box,Home Office,Organization,5,899,4495,494,Customer 127,East,West Bengal
+SP-10193,2025-03-08,Notebook Set,Stationery,Paper,3,349,1047,241,Customer 158,West,Maharashtra
+SP-10007,2025-03-11,USB-C Hub,Electronics,Accessories,5,2199,10995,2199,Customer 106,East,West Bengal
+SP-10038,2025-03-11,Monitor Stand,Furniture,Desk Setup,2,1899,3798,1215,Customer 137,West,Maharashtra
+SP-10069,2025-03-11,Storage Box,Home Office,Organization,6,899,5394,1133,Customer 101,South,Karnataka
+SP-10132,2025-03-19,USB-C Hub,Electronics,Accessories,6,2199,13194,1583,Customer 164,Central,Madhya Pradesh
+SP-10163,2025-03-19,Monitor Stand,Furniture,Desk Setup,4,1899,7596,1823,Customer 128,North,Delhi
+SP-10194,2025-03-19,Storage Box,Home Office,Organization,1,899,899,117,Customer 159,East,West Bengal
+SP-10225,2025-03-19,Notebook Set,Stationery,Paper,5,349,1745,436,Customer 123,West,Maharashtra
+SP-10008,2025-03-22,Wireless Mouse,Electronics,Accessories,3,799,2397,791,Customer 107,North,Delhi
+SP-10039,2025-03-22,USB-C Hub,Electronics,Accessories,7,2199,15393,3386,Customer 138,East,West Bengal
+SP-10070,2025-03-22,Monitor Stand,Furniture,Desk Setup,5,1899,9495,1044,Customer 102,West,Maharashtra
+SP-10101,2025-03-22,Wireless Mouse,Electronics,Accessories,2,799,1598,368,Customer 133,South,Karnataka
+SP-10164,2025-03-30,USB-C Hub,Electronics,Accessories,2,2199,4398,616,Customer 129,Central,Madhya Pradesh
+SP-10195,2025-03-30,Monitor Stand,Furniture,Desk Setup,6,1899,11394,2962,Customer 160,North,Delhi
+SP-10226,2025-03-30,Wireless Mouse,Electronics,Accessories,4,799,3196,479,Customer 124,East,West Bengal
+SP-10040,2025-04-02,Wireless Mouse,Electronics,Accessories,6,799,4794,575,Customer 139,North,Delhi
+SP-10071,2025-04-02,Office Chair,Furniture,Seating,3,7499,22497,5399,Customer 103,East,West Bengal
+SP-10102,2025-04-02,Pen Pack,Stationery,Writing,7,199,1393,181,Customer 134,West,Maharashtra
+SP-10133,2025-04-02,Wireless Mouse,Electronics,Accessories,5,799,3995,999,Customer 165,South,Karnataka
+SP-10009,2025-04-05,Pen Pack,Stationery,Writing,1,199,199,46,Customer 108,West,Maharashtra
+SP-10196,2025-04-10,Office Chair,Furniture,Seating,5,7499,37495,5999,Customer 161,Central,Madhya Pradesh
+SP-10227,2025-04-10,Pen Pack,Stationery,Writing,2,199,398,111,Customer 125,North,Delhi
+SP-10072,2025-04-13,Desk Lamp,Home Office,Lighting,1,1499,1499,210,Customer 104,North,Delhi
+SP-10103,2025-04-13,Office Chair,Furniture,Seating,6,7499,44994,11698,Customer 135,East,West Bengal
+SP-10134,2025-04-13,Pen Pack,Stationery,Writing,3,199,597,90,Customer 166,West,Maharashtra
+SP-10165,2025-04-13,Wireless Mouse,Electronics,Accessories,7,799,5593,1510,Customer 130,South,Karnataka
+SP-10010,2025-04-16,Office Chair,Furniture,Seating,7,7499,52493,6824,Customer 109,East,West Bengal
+SP-10041,2025-04-16,Keyboard,Electronics,Accessories,4,2599,10396,2599,Customer 140,West,Maharashtra
+SP-10228,2025-04-21,Office Chair,Furniture,Seating,7,7499,52493,9449,Customer 126,Central,Madhya Pradesh
+SP-10104,2025-04-24,Desk Lamp,Home Office,Lighting,4,1499,5996,959,Customer 136,North,Delhi
+SP-10135,2025-04-24,Office Chair,Furniture,Seating,1,7499,7499,2100,Customer 100,East,West Bengal
+SP-10166,2025-04-24,Keyboard,Electronics,Accessories,6,2599,15594,2651,Customer 131,West,Maharashtra
+SP-10197,2025-04-24,Desk Lamp,Home Office,Lighting,3,1499,4497,1304,Customer 162,South,Karnataka
+SP-10011,2025-04-27,Notebook Set,Stationery,Paper,5,349,1745,454,Customer 110,North,Delhi
+SP-10042,2025-04-27,Water Bottle,Lifestyle,Drinkware,2,599,1198,180,Customer 141,East,West Bengal
+SP-10073,2025-04-27,Keyboard,Electronics,Accessories,7,2599,18193,4912,Customer 105,West,Maharashtra
+SP-10136,2025-05-05,Notebook Set,Stationery,Paper,7,349,2443,440,Customer 101,North,Delhi
+SP-10167,2025-05-05,Water Bottle,Lifestyle,Drinkware,4,599,2396,719,Customer 132,East,West Bengal
+SP-10198,2025-05-05,Keyboard,Electronics,Accessories,1,2599,2599,494,Customer 163,West,Maharashtra
+SP-10229,2025-05-05,Desk Lamp,Home Office,Lighting,6,1499,8994,2788,Customer 127,South,Karnataka
+SP-10012,2025-05-08,Storage Box,Home Office,Organization,3,899,2697,432,Customer 111,Central,Madhya Pradesh
+SP-10043,2025-05-08,Notebook Set,Stationery,Paper,1,349,349,98,Customer 142,North,Delhi
+SP-10074,2025-05-08,Water Bottle,Lifestyle,Drinkware,5,599,2995,509,Customer 106,East,West Bengal
+SP-10105,2025-05-08,Keyboard,Electronics,Accessories,2,2599,5198,1507,Customer 137,West,Maharashtra
+SP-10168,2025-05-16,Notebook Set,Stationery,Paper,2,349,698,140,Customer 133,North,Delhi
+SP-10199,2025-05-16,Water Bottle,Lifestyle,Drinkware,7,599,4193,1342,Customer 164,East,West Bengal
+SP-10230,2025-05-16,Keyboard,Electronics,Accessories,4,2599,10396,2183,Customer 128,West,Maharashtra
+SP-10044,2025-05-19,Storage Box,Home Office,Organization,6,899,5394,971,Customer 143,Central,Madhya Pradesh
+SP-10075,2025-05-19,Notebook Set,Stationery,Paper,3,349,1047,314,Customer 107,North,Delhi
+SP-10106,2025-05-19,Monitor Stand,Furniture,Desk Setup,1,1899,1899,361,Customer 138,East,West Bengal
+SP-10137,2025-05-19,Storage Box,Home Office,Organization,5,899,4495,1393,Customer 102,West,Maharashtra
+SP-10013,2025-05-22,Monitor Stand,Furniture,Desk Setup,2,1899,3798,1101,Customer 112,South,Karnataka
+SP-10200,2025-05-27,Notebook Set,Stationery,Paper,5,349,1745,384,Customer 165,North,Delhi
+SP-10231,2025-05-27,Monitor Stand,Furniture,Desk Setup,2,1899,3798,418,Customer 129,East,West Bengal
+SP-10076,2025-05-30,Wireless Mouse,Electronics,Accessories,2,799,1598,320,Customer 108,Central,Madhya Pradesh
+SP-10107,2025-05-30,USB-C Hub,Electronics,Accessories,6,2199,13194,4222,Customer 139,North,Delhi
+SP-10138,2025-05-30,Monitor Stand,Furniture,Desk Setup,3,1899,5697,1196,Customer 103,East,West Bengal
+SP-10169,2025-05-30,Storage Box,Home Office,Organization,1,899,899,297,Customer 134,West,Maharashtra
+SP-10014,2025-06-02,USB-C Hub,Electronics,Accessories,7,2199,15393,2925,Customer 113,West,Maharashtra
+SP-10045,2025-06-02,Monitor Stand,Furniture,Desk Setup,4,1899,7596,2355,Customer 144,South,Karnataka
+SP-10232,2025-06-07,USB-C Hub,Electronics,Accessories,1,2199,2199,528,Customer 130,North,Delhi
+SP-10108,2025-06-10,Wireless Mouse,Electronics,Accessories,4,799,3196,703,Customer 140,Central,Madhya Pradesh
+SP-10139,2025-06-10,USB-C Hub,Electronics,Accessories,2,2199,4398,484,Customer 104,North,Delhi
+SP-10170,2025-06-10,Monitor Stand,Furniture,Desk Setup,6,1899,11394,2621,Customer 135,East,West Bengal
+SP-10201,2025-06-10,Wireless Mouse,Electronics,Accessories,3,799,2397,288,Customer 166,West,Maharashtra
+SP-10015,2025-06-13,Wireless Mouse,Electronics,Accessories,5,799,3995,1278,Customer 114,East,West Bengal
+SP-10046,2025-06-13,Office Chair,Furniture,Seating,3,7499,22497,4724,Customer 145,West,Maharashtra
+SP-10077,2025-06-13,Pen Pack,Stationery,Writing,7,199,1393,460,Customer 109,South,Karnataka
+SP-10140,2025-06-21,Wireless Mouse,Electronics,Accessories,7,799,5593,1342,Customer 105,Central,Madhya Pradesh
+SP-10171,2025-06-21,Office Chair,Furniture,Seating,4,7499,29996,3899,Customer 136,North,Delhi
+SP-10202,2025-06-21,Pen Pack,Stationery,Writing,2,199,398,100,Customer 100,East,West Bengal
+SP-10233,2025-06-21,Wireless Mouse,Electronics,Accessories,6,799,4794,671,Customer 131,West,Maharashtra
+SP-10016,2025-06-24,Keyboard,Electronics,Accessories,4,2599,10396,2287,Customer 115,North,Delhi
+SP-10047,2025-06-24,Desk Lamp,Home Office,Lighting,1,1499,1499,165,Customer 146,East,West Bengal
+SP-10078,2025-06-24,Office Chair,Furniture,Seating,5,7499,37495,8624,Customer 110,West,Maharashtra
+SP-10109,2025-06-24,Pen Pack,Stationery,Writing,3,199,597,72,Customer 141,South,Karnataka
+SP-10172,2025-07-02,Desk Lamp,Home Office,Lighting,3,1499,4497,1169,Customer 137,Central,Madhya Pradesh
+SP-10203,2025-07-02,Office Chair,Furniture,Seating,7,7499,52493,7874,Customer 101,North,Delhi
+SP-10234,2025-07-02,Pen Pack,Stationery,Writing,4,199,796,215,Customer 132,East,West Bengal
+SP-10048,2025-07-05,Keyboard,Electronics,Accessories,6,2599,15594,3743,Customer 147,North,Delhi
+SP-10079,2025-07-05,Desk Lamp,Home Office,Lighting,4,1499,5996,779,Customer 111,East,West Bengal
+SP-10110,2025-07-05,Office Chair,Furniture,Seating,1,7499,7499,1875,Customer 142,West,Maharashtra
+SP-10141,2025-07-05,Keyboard,Electronics,Accessories,5,2599,12995,1819,Customer 106,South,Karnataka
+SP-10017,2025-07-08,Water Bottle,Lifestyle,Drinkware,2,599,1198,144,Customer 116,West,Maharashtra
+SP-10204,2025-07-13,Desk Lamp,Home Office,Lighting,5,1499,7495,2099,Customer 102,Central,Madhya Pradesh
+SP-10235,2025-07-13,Office Chair,Furniture,Seating,3,7499,22497,3824,Customer 133,North,Delhi
+SP-10080,2025-07-16,Keyboard,Electronics,Accessories,2,2599,5198,1351,Customer 112,North,Delhi
+SP-10111,2025-07-16,Notebook Set,Stationery,Paper,6,349,2094,314,Customer 143,East,West Bengal
+SP-10142,2025-07-16,Water Bottle,Lifestyle,Drinkware,4,599,2396,647,Customer 107,West,Maharashtra
+SP-10173,2025-07-16,Keyboard,Electronics,Accessories,1,2599,2599,416,Customer 138,South,Karnataka
+SP-10018,2025-07-19,Notebook Set,Stationery,Paper,7,349,2443,611,Customer 117,East,West Bengal
+SP-10049,2025-07-19,Water Bottle,Lifestyle,Drinkware,5,599,2995,419,Customer 148,West,Maharashtra
+SP-10236,2025-07-24,Notebook Set,Stationery,Paper,1,349,349,105,Customer 134,Central,Madhya Pradesh
+SP-10112,2025-07-27,Storage Box,Home Office,Organization,5,899,4495,1259,Customer 144,North,Delhi
+SP-10143,2025-07-27,Notebook Set,Stationery,Paper,2,349,698,119,Customer 108,East,West Bengal
+SP-10174,2025-07-27,Water Bottle,Lifestyle,Drinkware,6,599,3594,1042,Customer 139,West,Maharashtra
+SP-10205,2025-07-27,Keyboard,Electronics,Accessories,4,2599,10396,1871,Customer 103,South,Karnataka
+SP-10019,2025-07-30,Storage Box,Home Office,Organization,6,899,5394,809,Customer 118,North,Delhi
+SP-10050,2025-07-30,Notebook Set,Stationery,Paper,3,349,1047,283,Customer 149,East,West Bengal
+SP-10081,2025-07-30,Monitor Stand,Furniture,Desk Setup,7,1899,13293,2127,Customer 113,West,Maharashtra
+SP-10144,2025-08-07,Storage Box,Home Office,Organization,7,899,6293,1888,Customer 109,North,Delhi
+SP-10175,2025-08-07,Notebook Set,Stationery,Paper,5,349,1745,332,Customer 140,East,West Bengal
+SP-10206,2025-08-07,Monitor Stand,Furniture,Desk Setup,2,1899,3798,1177,Customer 104,West,Maharashtra
+SP-10237,2025-08-07,Storage Box,Home Office,Organization,6,899,5394,1079,Customer 135,South,Karnataka
+SP-10020,2025-08-10,Monitor Stand,Furniture,Desk Setup,4,1899,7596,2127,Customer 119,Central,Madhya Pradesh
+SP-10051,2025-08-10,Wireless Mouse,Electronics,Accessories,1,799,799,136,Customer 150,North,Delhi
+SP-10082,2025-08-10,USB-C Hub,Electronics,Accessories,6,2199,13194,3826,Customer 114,East,West Bengal
+SP-10113,2025-08-10,Monitor Stand,Furniture,Desk Setup,3,1899,5697,1025,Customer 145,West,Maharashtra
+SP-10176,2025-08-18,Wireless Mouse,Electronics,Accessories,3,799,2397,767,Customer 141,North,Delhi
+SP-10207,2025-08-18,USB-C Hub,Electronics,Accessories,7,2199,15393,3233,Customer 105,East,West Bengal
+SP-10238,2025-08-18,Monitor Stand,Furniture,Desk Setup,5,1899,9495,3133,Customer 136,West,Maharashtra
+SP-10052,2025-08-21,Pen Pack,Stationery,Writing,7,199,1393,418,Customer 151,Central,Madhya Pradesh
+SP-10083,2025-08-21,Wireless Mouse,Electronics,Accessories,4,799,3196,607,Customer 115,North,Delhi
+SP-10114,2025-08-21,USB-C Hub,Electronics,Accessories,1,2199,2199,682,Customer 146,East,West Bengal
+SP-10145,2025-08-21,Monitor Stand,Furniture,Desk Setup,6,1899,11394,2279,Customer 110,West,Maharashtra
+SP-10021,2025-08-24,Office Chair,Furniture,Seating,2,7499,14998,2700,Customer 120,South,Karnataka
+SP-10208,2025-08-29,Wireless Mouse,Electronics,Accessories,6,799,4794,527,Customer 106,North,Delhi
+SP-10239,2025-08-29,USB-C Hub,Electronics,Accessories,3,2199,6597,1517,Customer 137,East,West Bengal
+SP-10084,2025-09-01,Pen Pack,Stationery,Writing,2,199,398,127,Customer 116,Central,Madhya Pradesh
+SP-10115,2025-09-01,Wireless Mouse,Electronics,Accessories,7,799,5593,1175,Customer 147,North,Delhi
+SP-10146,2025-09-01,Office Chair,Furniture,Seating,4,7499,29996,9899,Customer 111,East,West Bengal
+SP-10177,2025-09-01,Pen Pack,Stationery,Writing,1,199,199,44,Customer 142,West,Maharashtra
+SP-10022,2025-09-04,Desk Lamp,Home Office,Lighting,1,1499,1499,465,Customer 121,West,Maharashtra
+SP-10053,2025-09-04,Office Chair,Furniture,Seating,5,7499,37495,7499,Customer 152,South,Karnataka
+SP-10240,2025-09-09,Wireless Mouse,Electronics,Accessories,1,799,799,104,Customer 138,North,Delhi
+SP-10116,2025-09-12,Keyboard,Electronics,Accessories,5,2599,12995,1429,Customer 148,Central,Madhya Pradesh
+SP-10147,2025-09-12,Desk Lamp,Home Office,Lighting,2,1499,2998,690,Customer 112,North,Delhi
+SP-10178,2025-09-12,Office Chair,Furniture,Seating,7,7499,52493,6299,Customer 143,East,West Bengal
+SP-10209,2025-09-12,Pen Pack,Stationery,Writing,4,199,796,191,Customer 107,West,Maharashtra
+SP-10023,2025-09-15,Keyboard,Electronics,Accessories,6,2599,15594,3275,Customer 122,East,West Bengal
+SP-10054,2025-09-15,Desk Lamp,Home Office,Lighting,3,1499,4497,1484,Customer 153,West,Maharashtra
+SP-10085,2025-09-15,Office Chair,Furniture,Seating,1,7499,7499,1650,Customer 117,South,Karnataka
+SP-10148,2025-09-23,Keyboard,Electronics,Accessories,1,2599,2599,338,Customer 113,Central,Madhya Pradesh
+SP-10179,2025-09-23,Desk Lamp,Home Office,Lighting,5,1499,7495,1874,Customer 144,North,Delhi
+SP-10210,2025-09-23,Office Chair,Furniture,Seating,2,7499,14998,2100,Customer 108,East,West Bengal
+SP-10024,2025-09-26,Water Bottle,Lifestyle,Drinkware,4,599,2396,264,Customer 123,North,Delhi
+SP-10055,2025-09-26,Keyboard,Electronics,Accessories,2,2599,5198,1196,Customer 154,East,West Bengal
+SP-10086,2025-09-26,Notebook Set,Stationery,Paper,6,349,2094,251,Customer 118,West,Maharashtra
+SP-10117,2025-09-26,Water Bottle,Lifestyle,Drinkware,3,599,1797,431,Customer 149,South,Karnataka
+SP-10180,2025-10-04,Keyboard,Electronics,Accessories,3,2599,7797,1170,Customer 145,Central,Madhya Pradesh
+SP-10211,2025-10-04,Notebook Set,Stationery,Paper,1,349,349,94,Customer 109,North,Delhi
+SP-10056,2025-10-07,Monitor Stand,Furniture,Desk Setup,7,1899,13293,1728,Customer 155,North,Delhi
+SP-10087,2025-10-07,Storage Box,Home Office,Organization,4,899,3596,899,Customer 119,East,West Bengal
+SP-10118,2025-10-07,Notebook Set,Stationery,Paper,2,349,698,98,Customer 150,West,Maharashtra
+SP-10149,2025-10-07,Water Bottle,Lifestyle,Drinkware,6,599,3594,934,Customer 114,South,Karnataka
+SP-10025,2025-10-10,Notebook Set,Stationery,Paper,3,349,1047,251,Customer 124,West,Maharashtra
+SP-10212,2025-10-15,Storage Box,Home Office,Organization,6,899,5394,917,Customer 110,Central,Madhya Pradesh
+SP-10088,2025-10-18,Monitor Stand,Furniture,Desk Setup,3,1899,5697,855,Customer 120,North,Delhi
+SP-10119,2025-10-18,Storage Box,Home Office,Organization,7,899,6293,1699,Customer 151,East,West Bengal
+SP-10150,2025-10-18,Notebook Set,Stationery,Paper,4,349,1396,223,Customer 115,West,Maharashtra
+SP-10181,2025-10-18,Monitor Stand,Furniture,Desk Setup,2,1899,3798,1063,Customer 146,South,Karnataka
+SP-10026,2025-10-21,Wireless Mouse,Electronics,Accessories,1,799,799,112,Customer 125,East,West Bengal
+SP-10057,2025-10-21,USB-C Hub,Electronics,Accessories,5,2199,10995,2859,Customer 156,West,Maharashtra
+SP-10120,2025-10-29,Monitor Stand,Furniture,Desk Setup,5,1899,9495,1614,Customer 152,North,Delhi
+SP-10151,2025-10-29,Wireless Mouse,Electronics,Accessories,3,799,2397,695,Customer 116,East,West Bengal
+SP-10182,2025-10-29,USB-C Hub,Electronics,Accessories,7,2199,15393,2771,Customer 147,West,Maharashtra
+SP-10213,2025-10-29,Monitor Stand,Furniture,Desk Setup,4,1899,7596,2279,Customer 111,South,Karnataka
+SP-10027,2025-11-01,Pen Pack,Stationery,Writing,6,199,1194,322,Customer 126,North,Delhi
+SP-10058,2025-11-01,Wireless Mouse,Electronics,Accessories,4,799,3196,511,Customer 157,East,West Bengal
+SP-10089,2025-11-01,USB-C Hub,Electronics,Accessories,1,2199,2199,616,Customer 121,West,Maharashtra
+SP-10152,2025-11-09,Pen Pack,Stationery,Writing,1,199,199,38,Customer 117,North,Delhi
+SP-10183,2025-11-09,Wireless Mouse,Electronics,Accessories,5,799,3995,1238,Customer 148,East,West Bengal
+SP-10214,2025-11-09,USB-C Hub,Electronics,Accessories,3,2199,6597,1319,Customer 112,West,Maharashtra
+SP-10028,2025-11-12,Office Chair,Furniture,Seating,5,7499,37495,6374,Customer 127,Central,Madhya Pradesh
+SP-10059,2025-11-12,Pen Pack,Stationery,Writing,2,199,398,115,Customer 158,North,Delhi
+SP-10090,2025-11-12,Wireless Mouse,Electronics,Accessories,6,799,4794,863,Customer 122,East,West Bengal
+SP-10121,2025-11-12,Office Chair,Furniture,Seating,4,7499,29996,8999,Customer 153,West,Maharashtra
+SP-10184,2025-11-20,Pen Pack,Stationery,Writing,4,199,796,167,Customer 149,North,Delhi
+SP-10215,2025-11-20,Wireless Mouse,Electronics,Accessories,1,799,799,264,Customer 113,East,West Bengal
+SP-10060,2025-11-23,Office Chair,Furniture,Seating,7,7499,52493,9974,Customer 159,Central,Madhya Pradesh
+SP-10091,2025-11-23,Keyboard,Electronics,Accessories,5,2599,12995,4028,Customer 123,North,Delhi
+SP-10122,2025-11-23,Desk Lamp,Home Office,Lighting,2,1499,2998,600,Customer 154,East,West Bengal
+SP-10153,2025-11-23,Office Chair,Furniture,Seating,6,7499,44994,14398,Customer 118,West,Maharashtra
+SP-10029,2025-11-26,Desk Lamp,Home Office,Lighting,3,1499,4497,1349,Customer 128,South,Karnataka
+SP-10216,2025-12-01,Keyboard,Electronics,Accessories,6,2599,15594,3587,Customer 114,North,Delhi
+SP-10092,2025-12-04,Water Bottle,Lifestyle,Drinkware,3,599,1797,377,Customer 124,Central,Madhya Pradesh
+SP-10123,2025-12-04,Keyboard,Electronics,Accessories,7,2599,18193,6004,Customer 155,North,Delhi
+SP-10154,2025-12-04,Desk Lamp,Home Office,Lighting,5,1499,7495,1649,Customer 119,East,West Bengal
+SP-10185,2025-12-04,Office Chair,Furniture,Seating,2,7499,14998,1650,Customer 150,West,Maharashtra
+SP-10030,2025-12-07,Keyboard,Electronics,Accessories,1,2599,2599,520,Customer 129,West,Maharashtra
+SP-10061,2025-12-07,Notebook Set,Stationery,Paper,6,349,2094,670,Customer 160,South,Karnataka
+SP-10124,2025-12-15,Water Bottle,Lifestyle,Drinkware,6,599,3594,827,Customer 156,Central,Madhya Pradesh
+SP-10155,2025-12-15,Keyboard,Electronics,Accessories,3,2599,7797,936,Customer 120,North,Delhi
+SP-10186,2025-12-15,Notebook Set,Stationery,Paper,7,349,2443,586,Customer 151,East,West Bengal
+SP-10217,2025-12-15,Water Bottle,Lifestyle,Drinkware,5,599,2995,389,Customer 115,West,Maharashtra
+SP-10031,2025-12-18,Monitor Stand,Furniture,Desk Setup,7,1899,13293,4387,Customer 130,East,West Bengal
+SP-10062,2025-12-18,Storage Box,Home Office,Organization,4,899,3596,791,Customer 161,West,Maharashtra
+SP-10093,2025-12-18,Notebook Set,Stationery,Paper,1,349,349,38,Customer 125,South,Karnataka
+SP-10156,2025-12-26,Monitor Stand,Furniture,Desk Setup,1,1899,1899,475,Customer 121,Central,Madhya Pradesh
+SP-10187,2025-12-26,Storage Box,Home Office,Organization,6,899,5394,755,Customer 152,North,Delhi
+SP-10218,2025-12-26,Notebook Set,Stationery,Paper,3,349,1047,272,Customer 116,East,West Bengal
+SP-10032,2025-12-29,USB-C Hub,Electronics,Accessories,5,2199,10995,2529,Customer 131,North,Delhi
+SP-10063,2025-12-29,Monitor Stand,Furniture,Desk Setup,2,1899,3798,456,Customer 162,East,West Bengal
+SP-10094,2025-12-29,Storage Box,Home Office,Organization,7,899,6293,1510,Customer 126,West,Maharashtra
+SP-10125,2025-12-29,Notebook Set,Stationery,Paper,4,349,1396,181,Customer 157,South,Karnataka

@@ -1,0 +1,7 @@
+Order ID,Order Date,Product Name,Category,Subcategory,Quantity,Unit Price,Sales,Profit,Customer Name,Region,State
+ORD-1001,2025-01-05,Wireless Mouse,Electronics,Accessories,2,799,1598,420,Customer 101,West,Maharashtra
+ORD-1002,2025-01-12,Desk Lamp,Home Office,Lighting,1,1499,1499,380,Customer 102,North,Delhi
+ORD-1003,2025-02-03,Notebook Set,Stationery,Paper,4,349,1396,310,Customer 103,South,Karnataka
+ORD-1004,2025-02-17,USB-C Hub,Electronics,Accessories,2,2199,4398,970,Customer 104,East,West Bengal
+ORD-1005,2025-03-09,Office Chair,Furniture,Seating,1,7499,7499,1450,Customer 105,West,Maharashtra
+ORD-1006,2025-03-22,Water Bottle,Lifestyle,Drinkware,3,599,1797,480,Customer 106,Central,Madhya Pradesh

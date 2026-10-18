@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f5f7fb"><meta name="description" content="SalesPulse Analytics — sales and business intelligence dashboard.">
+  <title>SalesPulse Analytics | Business Intelligence</title><link rel="icon" type="image/svg+xml" href="logo.svg"><link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="app-shell">
+  <aside class="sidebar" id="sidebar">
+    <a class="brand" href="#overview" aria-label="SalesPulse home"><img src="logo.svg" alt="SalesPulse Analytics logo"></a>
+    <div class="workspace-label">WORKSPACE</div>
+    <nav class="nav-list" aria-label="Main navigation">
+      <button class="nav-item active" data-page="overview"><span class="nav-icon">▦</span>Overview</button>
+      <button class="nav-item" data-page="sales"><span class="nav-icon">↗</span>Sales analytics</button>
+      <button class="nav-item" data-page="products"><span class="nav-icon">▤</span>Product analytics</button>
+      <button class="nav-item" data-page="regions"><span class="nav-icon">◎</span>Regional analytics</button>
+      <button class="nav-item" data-page="orders"><span class="nav-icon">☷</span>Orders & transactions</button>
+      <div class="nav-divider"></div>
+      <button class="nav-item" data-page="import"><span class="nav-icon">⇧</span>Data import</button>
+      <button class="nav-item" data-page="quality"><span class="nav-icon">✓</span>Data quality</button>
+      <button class="nav-item" data-page="reports"><span class="nav-icon">▧</span>Reports & export</button>
+      <button class="nav-item" data-page="settings"><span class="nav-icon">⚙</span>Settings & about</button>
+    </nav>
+    <div class="sidebar-bottom"><div class="dataset-status"><span class="status-dot"></span><div><strong id="sideDataset">Sample dataset</strong><small id="sideRows">240 sample records</small></div></div><p>Data is processed locally in your browser.</p></div>
+  </aside>
+  <main class="main-area">
+    <header class="topbar"><button class="mobile-menu" id="mobileMenu" aria-label="Toggle navigation">☰</button><div class="breadcrumb"><span>Workspace</span><b>/</b><strong id="crumbTitle">Overview</strong></div><div class="top-actions"><span class="sample-pill" id="datasetBadge"><span class="status-dot"></span> Sample dataset</span><button class="icon-button" id="exportTop" title="Export current data" aria-label="Export current data">⇩</button><div class="avatar">SP</div><div class="user-meta"><strong>Analyst workspace</strong><small>Local session</small></div></div></header>
+    <section class="page-content" id="pageContent" aria-live="polite"></section>
+    <footer class="footer"><span>SalesPulse Analytics <span id="year"></span></span><span>Business intelligence · Processed locally</span></footer>
+  </main>
+</div>
+<input type="file" id="csvFile" accept=".csv,text/csv" hidden>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="app.js"></script>
+</body></html>
